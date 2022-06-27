@@ -15,6 +15,7 @@
 		BDFAC31D286A015F003FAF14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDFAC31C286A015F003FAF14 /* Assets.xcassets */; };
 		BDFAC320286A015F003FAF14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDFAC31E286A015F003FAF14 /* LaunchScreen.storyboard */; };
 		BDFAC328286A0473003FAF14 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFAC327286A0473003FAF14 /* ToDoTableViewController.swift */; };
+		BDFAC32A286A52FD003FAF14 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFAC329286A52FD003FAF14 /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BDFAC31F286A015F003FAF14 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDFAC321286A015F003FAF14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDFAC327286A0473003FAF14 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
+		BDFAC329286A52FD003FAF14 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BDFAC312286A015E003FAF14 /* SceneDelegate.swift */,
 				BDFAC314286A015E003FAF14 /* ViewController.swift */,
 				BDFAC316286A015E003FAF14 /* Main.storyboard */,
+				BDFAC329286A52FD003FAF14 /* ToDo.swift */,
 				BDFAC327286A0473003FAF14 /* ToDoTableViewController.swift */,
 				BDFAC31C286A015F003FAF14 /* Assets.xcassets */,
 				BDFAC31E286A015F003FAF14 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				BDFAC31B286A015E003FAF14 /* todolist2022W2.xcdatamodeld in Sources */,
 				BDFAC315286A015E003FAF14 /* ViewController.swift in Sources */,
 				BDFAC311286A015E003FAF14 /* AppDelegate.swift in Sources */,
+				BDFAC32A286A52FD003FAF14 /* ToDo.swift in Sources */,
 				BDFAC313286A015E003FAF14 /* SceneDelegate.swift in Sources */,
 				BDFAC328286A0473003FAF14 /* ToDoTableViewController.swift in Sources */,
 			);
